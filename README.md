@@ -48,16 +48,16 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <p>
   <a href="https://linkedin.com/in/jsantanders">
-    <img src="https://github.com/jsantanders/jsantanders/blob/master/images/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/jsantanders/jsantanders/blob/master/img/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
   
   <a href="https://stackoverflow.com/users/7318331/jesus-santander">
-    <img src="https://github.com/jsantanders/jsantanders/blob/master/images/stackoverflow.svg" alt="StackOverflow" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/jsantanders/jsantanders/blob/master/img/stackoverflow.svg" alt="StackOverflow" style="vertical-align:top; margin:4px">
   </a>
   
 
   <a href="http://twitter.com/jsantanders">
-    <img src="https://github.com/jsantanders/jsantanders/blob/master/images/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/jsantanders/jsantanders/blob/master/img/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>
   
 </p>
