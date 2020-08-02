@@ -10,9 +10,8 @@
 - 👦 I'm a Software Engineer & Full Stack developer who is passionate about Web Development, Cloud computing architecture, and open source.
 - 🌱 I’m currently learning F# and functional programming
 - 👯 I’m looking forward to collaborate on any Open Source project.
-- 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: he/him
 - ⚡️ I have a blog at https://jsantanders.dev where I try to post as frequently as I can (crossposting to dev.to). Everything I post is tech related and about things I find interesting in my daily work.
+- 😄 Pronouns: he/him
 
 ### 🚧 I build with:
 
