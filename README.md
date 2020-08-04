@@ -7,10 +7,10 @@
 <!-- Any image aligned to the right. Beware the width
 <img width="55%" align="right" alt="Github" src="https://github.com/jsantanders/jsantanders/blob/master/img/undraw_developer_activity_bv83.svg" /> -->
 
-- 👦 I'm a Software Engineer & Full Stack developer who is passionate about Web Development, Cloud computing architecture, and open source.
+- 👦 I'm a Software Engineer & Full Stack developer who is passionate about web development and cloud computing architecture.
 - 🌱 I’m currently learning F# and functional programming
 - 👯 I’m looking forward to collaborate on any Open Source project.
-- ⚡️ I have a blog at https://jsantanders.dev where I try to post as frequently as I can (crossposting to dev.to). Everything I post is tech related and about things I find interesting in my daily work.
+- ⚡️ I have a blog at https://jsantanders.dev Everything I post is tech related and about things I find interesting in my daily work.
 - 😄 Pronouns: he/him
 
 ### 🚧 I build with:
