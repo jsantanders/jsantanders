@@ -4,8 +4,8 @@
 <!-- Talking about you -->
 ### 👨‍💻 About me:
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://github.com/jsantanders/jsantanders/blob/master/img/undraw_developer_activity_bv83.svg" />
+<!-- Any image aligned to the right. Beware the width
+<img width="55%" align="right" alt="Github" src="https://github.com/jsantanders/jsantanders/blob/master/img/undraw_developer_activity_bv83.svg" /> -->
 
 - 👦 I'm a Software Engineer & Full Stack developer who is passionate about Web Development, Cloud computing architecture, and open source.
 - 🌱 I’m currently learning F# and functional programming
