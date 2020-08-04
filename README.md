@@ -1,11 +1,10 @@
 ## Hi there 👋
 
+<!-- Any image aligned to the right. Beware the width-->
+<img width="45%" align="right" alt="Github" src="https://github.com/jsantanders/jsantanders/blob/master/img/undraw_developer_activity_bv83.svg" /> 
 
 <!-- Talking about you -->
 ### 👨‍💻 About me:
-
-<!-- Any image aligned to the right. Beware the width-->
-<img width="45%" align="right" alt="Github" src="https://github.com/jsantanders/jsantanders/blob/master/img/undraw_developer_activity_bv83.svg" /> 
 
 - 👦 I'm interested in web development and cloud computing architecture.
 - 🌱 I’m currently learning F# and functional programming
