@@ -6,7 +6,7 @@
 <!-- Talking about you -->
 ### 👨‍💻 About me:
 
-- 👦 I'm interested in web development and cloud architecture.
+- 👦 I'm interested in distributed systems and cloud architecture.
 - 🌱 I’m currently learning F# and functional programming
 - 👯 I’m looking forward to collaborate on any Open Source project.
 - ⚡️ I have a blog at https://jsantanders.dev
