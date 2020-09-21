@@ -9,7 +9,7 @@
 - 👦 I'm interested in distributed systems and cloud architecture.
 - 🌱 I’m currently learning F# and functional programming
 - 👯 I’m looking forward to collaborate on Open Source projects.
-- ⚡️ I have a blog at https://jsantanders.dev
+- ⚡️ I have a blog at https://www.jsantanders.dev
 - 😄 Pronouns: he/him
 
 ### 🚧 I build with:
