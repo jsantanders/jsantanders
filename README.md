@@ -26,6 +26,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jsantanders&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+### 🧑‍💻  This week, I spent my time on:
+
+[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsantander&theme=tokyonight&icon_color=6392DF)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📢 Find me elsewhere:
 
 <p>
