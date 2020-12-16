@@ -15,11 +15,11 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/jsantanders">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsantanders&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Jesus's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsantanders&hide=html,scss&&theme=tokyonight&icon_color=6392DF" alt="Jesus's GitHub Stats" />
 </a>
 
 <a href="https://github.com/jsantanders">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsantanders&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Jesus's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsantanders&show_icons=true&line_height=27&count_private=true&&theme=tokyonight&icon_color=6392DF" alt="Jesus's GitHub Stats" />
 </a>
 
 ## 🏆 GitHub Trophies
