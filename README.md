@@ -12,35 +12,19 @@
 - ⚡️ I have a blog at https://www.jsantanders.dev
 - 😄 Pronouns: he/him
 
-### 🚧 I build with:
+## &#x1f4c8; GitHub Stats
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-  <a href="https://github.com/jsantanders">
-    <img width="55%" align="right" alt="jsantanders' github stats" src="https://github-readme-stats.vercel.app/api?username=jsantanders&show_icons=true&hide_border=true&theme=tokyonight&icon_color=6392DF" />
-  </a>
+<a href="https://github.com/jsantanders">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsantandersa&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Jesus's GitHub Stats" />
+</a>
 
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
+<a href="https://github.com/jsantanders">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsantanders&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Jesus's GitHub Stats" />
+</a>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jsantanders&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📢 Find me elsewhere:
 
