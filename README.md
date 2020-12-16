@@ -15,7 +15,7 @@
 ### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/jsantanders">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsantanders&hide=html,scss&count_private=true&theme=tokyonight&icon_color=6392DF" alt="Jesus's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsantanders&line_height=27&hide=html,scss&count_private=true&theme=tokyonight&icon_color=6392DF" alt="Jesus's GitHub Stats" />
 </a>
 
 <a href="https://github.com/jsantanders">
@@ -28,7 +28,7 @@
 
 ### 🧑‍💻  This week, I spent my time on:
 
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsantanders&theme=tokyonight&icon_color=6392DF)](https://github.com/anuraghazra/github-readme-stats)
+[![Jesus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsantanders&theme=tokyonight&icon_color=6392DF&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📢 Find me elsewhere:
 
