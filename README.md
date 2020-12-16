@@ -12,7 +12,7 @@
 - ⚡️ I have a blog at https://www.jsantanders.dev
 - 😄 Pronouns: he/him
 
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/jsantanders">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsantanders&hide=html,scss&count_private=true&theme=tokyonight&icon_color=6392DF" alt="Jesus's GitHub Stats" />
@@ -22,7 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsantanders&show_icons=true&line_height=27&count_private=true&&theme=tokyonight&icon_color=6392DF" alt="Jesus's GitHub Stats" />
 </a>
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jsantanders&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
