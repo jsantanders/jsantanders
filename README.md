@@ -28,7 +28,7 @@
 
 ### 🧑‍💻  This week, I spent my time on:
 
-[![Jesus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsantanders&theme=tokyonight&icon_color=6392DF&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
+[![Jesus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsantanders&theme=tokyonight&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📢 Find me elsewhere:
 
