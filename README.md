@@ -15,7 +15,7 @@
 ### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/jsantanders">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsantanders&line_height=27&hide=html&theme=tokyonight&icon_color=6392DF&langs_count=3" alt="Jesus's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsantanders&line_height=27&hide=html,scss&theme=tokyonight&icon_color=6392DF&langs_count=3" alt="Jesus's GitHub Stats" />
 </a>
 
 <a href="https://github.com/jsantanders">
@@ -45,5 +45,4 @@
   <a target="_blank" href="http://twitter.com/jsantanders">
     <img src="https://github.com/jsantanders/jsantanders/blob/master/img/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>
-  
 </p>
