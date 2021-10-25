@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@main
+      - uses: lowlighter/metrics@latest
         with:
           template: markdown
           filename: README.md         # Output file
