@@ -28,7 +28,7 @@ jobs:
           plugin_support: yes
           plugin_languages: yes
           plugin_languages_ignored: html, css                           # List of languages to ignore
-          plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..." # Customize languages names with aliases
+          plugin_languages_aliases: "JavaScript:JS, TypeScript:TS" # Customize languages names with aliases
           plugin_languages_details: bytes-size, percentage              # Additionally display total bytes size and percentage
           plugin_languages_threshold: 2%                                # Hides all languages less than 2%
           plugin_languages_limit: 8                                     # Display up to 8 languages
