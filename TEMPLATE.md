@@ -18,7 +18,7 @@ I contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ C
 
 ### 🈷️ Most used languages
 
-<%- await embed(`languages`, {languages:true, languages_details:"percentage, bytes-size", config_display:"large", languages_ignored: "html, css", languages_aliases: "JavaScript:JS, TypeScript:TS", languages_threshold: "2%"}) %>
+<%- await embed(`languages`, {languages:true, languages_details:"percentage, bytes-size", languages_ignored: "html, css", languages_aliases: "JavaScript:JS, TypeScript:TS", languages_threshold: "2%"}) %>
 
 ### 📢 Find me elsewhere
 
