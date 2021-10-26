@@ -1,7 +1,7 @@
 ## Hi, I'm Jesus 👋
 
 I joined GitHub on `13/11/2015`.
-I contributed to `13` repositories and made `905` commits.
+I contributed to `13` repositories and made `880` commits.
 
 <!-- Talking about you -->
 ### 👨‍💻 About me
