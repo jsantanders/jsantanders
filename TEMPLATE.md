@@ -17,7 +17,7 @@ I contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ C
 
 <%- await embed(`languages`, {languages:true, languages_details:"percentage", languages_ignored: "html, css,tex", languages_threshold: "2%", languages_sections: "most-used", languages_recent_load:"1000", commits_authoring: "jsantanders@outlook.com"}) %>
 
-### 🏆 Github Statistics
+### 📊 Github Statistics
 
  <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=jsantanders&hide_border=true&theme=nightowl&count_private=true" /> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jsantanders&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
