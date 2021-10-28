@@ -1,7 +1,6 @@
 ## Hi, I'm Jesus 👋
 
 I joined GitHub on `13/11/2015`.
-I contributed to `13` repositories and made `915` commits.
 
 <!-- Talking about you -->
 
