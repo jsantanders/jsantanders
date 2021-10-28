@@ -12,12 +12,12 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
+          plugin_languages: yes
+          plugin_achievements: yes
           template: markdown
           filename: README.md # Output file
           markdown: TEMPLATE.md # Template file
           markdown_cache: .cache # Cache folder
-          plugin_languages: yes
-          plugin_achievements: yes
           plugin_achievements_threshold: B # Display achievements with rank B or higher
           plugin_achievements_secrets: yes # Display unlocked secrets achievements
           plugin_achievements_ignored: octonaut # Hide octonaut achievement
