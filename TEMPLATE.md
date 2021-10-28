@@ -1,7 +1,6 @@
 ## Hi, I'm Jesus 👋
 
 I joined GitHub on `{{ f.date(REGISTRATION_DATE, {date:true}) }}`.
-I contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ COMMITS }}` commits.
 
 <!-- Talking about you -->
 
