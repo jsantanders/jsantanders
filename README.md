@@ -1,7 +1,7 @@
 ## Hi, I'm Jesus 👋
 
 I joined GitHub on `13/11/2015`.
-I contributed to `13` repositories and made `913` commits.
+I contributed to `13` repositories and made `915` commits.
 
 <!-- Talking about you -->
 
@@ -19,8 +19,8 @@ I contributed to `13` repositories and made `913` commits.
 
 ### 📊 Github Statistics
 
- <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=jsantanders&hide_border=true&theme=nightowl&count_private=true" /> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jsantanders&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
+ <p>
+    <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=jsantanders&hide_border=true&theme=nightowl&count_private=true" />
 </p>
 
 ### 📢 Find me elsewhere
