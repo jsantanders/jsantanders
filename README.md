@@ -1,6 +1,6 @@
 ## Hi, I'm Jesus 👋
 
-I joined GitHub on `13/11/2015`.
+I joined GitHub on `13 Nov 2015`.
 
 <!-- Talking about you -->
 
