@@ -15,11 +15,6 @@ I joined GitHub on `13 Nov 2015`.
 ### 📊 Github Statistics
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ### 📢 Find me elsewhere
