@@ -7,20 +7,15 @@ I joined GitHub on `13 Nov 2015`.
 ### 👨‍💻 About me
 
 - 👦 I'm interested in distributed systems, SPAs web pages and cloud architecture.
-- 🌱 I’m currently learning F# and functional programming
+- 🌱 I’m currently learning F# and Go.
 - 👯 I’m looking forward to collaborate on Open Source projects.
 - ⚡️ I have a blog at <https://jsantanders.dev>
 - 😄 Pronouns: he/him
 
-### 🈷️ Most used languages
-
-<img src="https://github.com/jsantanders/jsantanders/blob/master/.cache/languages.svg">
-
 ### 📊 Github Statistics
 
- <p>
-    <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=jsantanders&hide_border=true&theme=nightowl&count_private=true" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 📢 Find me elsewhere
 
