@@ -15,7 +15,7 @@ I joined GitHub on `13 Nov 2015`.
 ### 📊 Github Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2048%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -46,7 +46,11 @@ Sunday       30 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 40 mins        ███████████████████░░░░░░   76.7% 
+YAML                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06% 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 ```
 
