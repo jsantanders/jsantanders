@@ -17,15 +17,15 @@ I joined GitHub on `13 Nov 2015`.
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 December 2022 - To: 04 January 2023
+From: 29 December 2022 - To: 05 January 2023
 
-Total Time: 5 hrs 6 mins
+Total Time: 5 hrs 51 mins
 
-TypeScript   2 hrs 5 mins    ██████████▒░░░░░░░░░░░░░░   40.88 %
-JavaScript   1 hr 26 mins    ███████░░░░░░░░░░░░░░░░░░   28.37 %
-JSON         54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
-MDX          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Other        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+TypeScript   2 hrs 43 mins   ███████████▓░░░░░░░░░░░░░   46.48 %
+JavaScript   1 hr 28 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.28 %
+JSON         59 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
+MDX          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
