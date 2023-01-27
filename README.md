@@ -6,8 +6,8 @@ I joined GitHub on `13 Nov 2015`.
 
 ### 👨‍💻 About me
 
-- 👦 I'm interested in distributed systems, SPAs web pages and cloud architecture.
-- 🌱 I’m currently learning F# and Go.
+- 👦 I'm interested in distributed systems, React.js apps and cloud architecture.
+- 🌱 I’m currently learning Rust.
 - 👯 I’m looking forward to collaborate on Open Source projects.
 - ⚡️ I have a blog at <https://jsantanders.dev>
 - 😄 Pronouns: he/him
