@@ -17,7 +17,7 @@ I joined GitHub on `13 Nov 2015`.
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 December 2020 - To: 11 March 2023
+From: 15 December 2020 - To: 12 March 2023
 
 Total Time: 718 hrs 6 mins
 
