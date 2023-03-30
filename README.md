@@ -14,12 +14,12 @@ I joined GitHub on `13 Nov 2015`.
 
 ### 📊 Github Statistics
 
-## This week I spent my time on
+#### This week I spent my time on
 
 <!--START_SECTION:weekly-->
 <!--END_SECTION:weekly-->
 
-## My most used languages
+#### My most used languages
 
 <!--START_SECTION:all_time-->
 <!--END_SECTION:all_time-->
