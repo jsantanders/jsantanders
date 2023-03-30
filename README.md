@@ -14,20 +14,15 @@ I joined GitHub on `13 Nov 2015`.
 
 ### 📊 Github Statistics
 
-<!--START_SECTION:waka-->
+## This week I spent my time on
 
-```text
-From: 15 December 2020 - To: 28 March 2023
+<!--START_SECTION:weekly-->
+<!--END_SECTION:weekly-->
 
-Total Time: 774 hrs 12 mins
+## My most used languages
 
-TypeScript                 418 hrs 23 mins █████████████▓░░░░░░░░░░░   54.04 %
-C#                         144 hrs 30 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-JavaScript                 56 hrs 22 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Other                      41 hrs 55 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-```
-
-<!--END_SECTION:waka-->
+<!--START_SECTION:all_time-->
+<!--END_SECTION:all_time-->
 
 ### 📢 Find me elsewhere
 
