@@ -17,6 +17,15 @@ I joined GitHub on `13 Nov 2015`.
 #### This week I spent my time on
 
 <!--START_SECTION:weekly-->
+
+```text
+From: 23 March 2023 - To: 30 March 2023
+
+Total Time: 13 hrs 46 mins
+
+Other        5 hrs 17 mins   █████████▓░░░░░░░░░░░░░░░   38.40 %
+```
+
 <!--END_SECTION:weekly-->
 
 #### My most used languages
