@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-weekly-readme:
-    name: WakaReadme DevMetrics
+    name: WakaReadme weekly DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
@@ -19,9 +19,10 @@ jobs:
           SHOW_MASKED_TIME: true
           TIME_RANGE: last_7_days
           SECTION_NAME: weekly
+          LANG_COUNT: 5
 
-  update-all_time-readme:
-    name: WakaReadme DevMetrics
+  update-alltime-readme:
+    name: WakaReadme all time DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
@@ -31,4 +32,4 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           TIME_RANGE: all_time
-          SECTION_NAME: all_time
+          SECTION_NAME: alltime

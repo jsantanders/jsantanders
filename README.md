@@ -21,8 +21,8 @@ I joined GitHub on `13 Nov 2015`.
 
 #### My most used languages
 
-<!--START_SECTION:all_time-->
-<!--END_SECTION:all_time-->
+<!--START_SECTION:alltime-->
+<!--END_SECTION:alltime-->
 
 ### 📢 Find me elsewhere
 
