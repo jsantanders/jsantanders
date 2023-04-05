@@ -38,14 +38,16 @@ Lua          34 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```text
-From: 15 December 2020 - To: 30 March 2023
+From: 15 December 2020 - To: 05 April 2023
 
-Total Time: 781 hrs 9 mins
+Total Time: 796 hrs 54 mins
 
-TypeScript                 423 hrs 18 mins █████████████▓░░░░░░░░░░░   54.19 %
-C#                         144 hrs 30 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
-JavaScript                 56 hrs 24 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-Other                      43 hrs 52 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+TypeScript                 425 hrs 57 mins █████████████▒░░░░░░░░░░░   53.45 %
+C#                         144 hrs 30 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
+JavaScript                 57 hrs 27 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+RMarkdown                  49 hrs 30 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+JSON                       27 hrs 25 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Other                      18 hrs 39 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:alltime-->
