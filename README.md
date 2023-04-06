@@ -26,7 +26,7 @@ Total Time: 20 hrs 21 mins
 RMarkdown    7 hrs 21 mins   █████████░░░░░░░░░░░░░░░░   36.17 %
 TypeScript   6 hrs 19 mins   ███████▓░░░░░░░░░░░░░░░░░   31.09 %
 Rust         3 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
-JavaScript   1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+JavaScript   1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
 CocoaPods    44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 Lua          34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
