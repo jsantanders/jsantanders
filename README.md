@@ -19,16 +19,16 @@ I joined GitHub on `13 Nov 2015`.
 <!--START_SECTION:weekly-->
 
 ```text
-From: 03 April 2023 - To: 10 April 2023
+From: 04 April 2023 - To: 11 April 2023
 
-Total Time: 21 hrs 33 mins
+Total Time: 23 hrs 39 mins
 
-TypeScript   6 hrs 10 mins   ███████▒░░░░░░░░░░░░░░░░░   28.67 %
-RMarkdown    4 hrs 42 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.83 %
-Lua          4 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
-Rust         2 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-JavaScript   1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-Other        48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+TypeScript   8 hrs 53 mins   █████████▒░░░░░░░░░░░░░░░   37.62 %
+RMarkdown    4 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   19.77 %
+Lua          4 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
+Rust         3 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+JavaScript   1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Other        48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 <!--END_SECTION:weekly-->
