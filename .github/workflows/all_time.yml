@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # The first day of every month
-    - cron: '0 0 1 * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-alltime-readme:
