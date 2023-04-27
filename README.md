@@ -38,16 +38,15 @@ MDX          1 hr 15 mins    ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```text
-From: 15 December 2020 - To: 05 April 2023
+From: 15 December 2020 - To: 26 April 2023
 
-Total Time: 796 hrs 54 mins
+Total Time: 890 hrs 17 mins
 
-TypeScript                 425 hrs 57 mins █████████████▒░░░░░░░░░░░   53.45 %
-C#                         144 hrs 30 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
-JavaScript                 57 hrs 27 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-RMarkdown                  49 hrs 30 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-JSON                       27 hrs 25 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Other                      18 hrs 39 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+TypeScript                 479 hrs 38 mins █████████████▒░░░░░░░░░░░   53.87 %
+C#                         144 hrs 36 mins ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
+JavaScript                 93 hrs 38 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+RMarkdown                  60 hrs 30 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+Other                      20 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:alltime-->
