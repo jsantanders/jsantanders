@@ -37,7 +37,7 @@ Markdown     10 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```text
-From: 15 December 2020 - To: 14 May 2023
+From: 15 December 2020 - To: 15 May 2023
 
 Total Time: 956 hrs 26 mins
 
