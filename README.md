@@ -19,15 +19,15 @@ I joined GitHub on `13 Nov 2015`.
 <!--START_SECTION:weekly-->
 
 ```text
-From: 19 May 2023 - To: 26 May 2023
+From: 20 May 2023 - To: 27 May 2023
 
-Total Time: 25 hrs 27 mins
+Total Time: 25 hrs 36 mins
 
-TypeScript   12 hrs 15 mins  ████████████░░░░░░░░░░░░░   48.16 %
-MDX          6 hrs 9 mins    ██████░░░░░░░░░░░░░░░░░░░   24.21 %
-Rust         2 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-JavaScript   2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-CSS          41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+TypeScript   12 hrs 56 mins  ████████████▓░░░░░░░░░░░░   50.52 %
+MDX          4 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
+Rust         3 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+JavaScript   2 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+CSS          42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:weekly-->
