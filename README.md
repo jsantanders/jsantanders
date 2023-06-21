@@ -37,7 +37,7 @@ TypeScript   40 mins         ███░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 18 June 2023
+From: 15 December 2020 - To: 19 June 2023
 
 Total Time: 1,027 hrs 14 mins
 
