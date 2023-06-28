@@ -37,7 +37,7 @@ C++          9 mins          ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 25 June 2023
+From: 15 December 2020 - To: 26 June 2023
 
 Total Time: 1,034 hrs 46 mins
 
