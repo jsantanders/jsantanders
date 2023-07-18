@@ -19,7 +19,7 @@ I joined GitHub on `13 Nov 2015`.
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 09 July 2023 - To: 16 July 2023
+From: 10 July 2023 - To: 17 July 2023
 
 Total Time: 6 hrs 20 mins
 
