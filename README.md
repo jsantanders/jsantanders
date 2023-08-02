@@ -19,15 +19,15 @@ I joined GitHub on `13 Nov 2015`.
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 24 July 2023 - To: 31 July 2023
+From: 25 July 2023 - To: 01 August 2023
 
-Total Time: 3 hrs 15 mins
+Total Time: 5 hrs
 
-Vue.js           2 hrs 14 mins   █████████████████▒░░░░░░░   68.79 %
-JavaScript       34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
-TypeScript       10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-Java             9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-PHP              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Vue.js           3 hrs 22 mins   █████████████████░░░░░░░░   67.36 %
+JavaScript       50 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
+TypeScript       31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+Java             9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+PHP              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:weekly-->
