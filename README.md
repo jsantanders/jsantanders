@@ -37,7 +37,7 @@ PHP              2 mins          ▒░░░░░░░░░░░░░░�
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 30 July 2023
+From: 15 December 2020 - To: 31 July 2023
 
 Total Time: 1,064 hrs 38 mins
 
