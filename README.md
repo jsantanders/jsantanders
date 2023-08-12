@@ -37,7 +37,7 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 09 August 2023
+From: 15 December 2020 - To: 10 August 2023
 
 Total Time: 1,067 hrs 54 mins
 
