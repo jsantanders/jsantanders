@@ -37,15 +37,15 @@ textmate     0 secs          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 14 August 2023
+From: 15 December 2020 - To: 15 August 2023
 
-Total Time: 1,068 hrs 16 mins
+Total Time: 1,070 hrs 40 mins
 
-TypeScript                 577 hrs 51 mins █████████████▓░░░░░░░░░░░   54.09 %
-C#                         145 hrs 2 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-JavaScript                 121 hrs 23 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-RMarkdown                  68 hrs 12 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-Other                      22 hrs 36 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+TypeScript                 577 hrs 51 mins █████████████▒░░░░░░░░░░░   53.97 %
+C#                         145 hrs 2 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
+JavaScript                 121 hrs 25 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+RMarkdown                  68 hrs 12 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Other                      22 hrs 36 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:alltime-->
