@@ -37,7 +37,7 @@ textmate     0 secs          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 17 August 2023
+From: 15 December 2020 - To: 18 August 2023
 
 Total Time: 1,071 hrs 41 mins
 
