@@ -37,7 +37,7 @@ Java         17 mins         ██░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 30 August 2023
+From: 15 December 2020 - To: 31 August 2023
 
 Total Time: 1,080 hrs 41 mins
 
