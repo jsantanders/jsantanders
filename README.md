@@ -37,12 +37,12 @@ Java         17 mins         █▓░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 01 September 2023
+From: 15 December 2020 - To: 02 September 2023
 
-Total Time: 1,080 hrs 52 mins
+Total Time: 1,081 hrs 24 mins
 
-TypeScript                 580 hrs 49 mins █████████████▒░░░░░░░░░░░   53.74 %
-C#                         145 hrs 2 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+TypeScript                 580 hrs 50 mins █████████████▒░░░░░░░░░░░   53.71 %
+C#                         145 hrs 2 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
 JavaScript                 122 hrs 23 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
 RMarkdown                  68 hrs 12 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
 Other                      22 hrs 36 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
