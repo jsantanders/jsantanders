@@ -37,7 +37,7 @@ Assembly     1 min           ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 17 September 2023
+From: 15 December 2020 - To: 18 September 2023
 
 Total Time: 1,096 hrs 27 mins
 
