@@ -37,15 +37,15 @@ TOML         11 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 29 September 2023
+From: 15 December 2020 - To: 30 September 2023
 
-Total Time: 1,117 hrs 2 mins
+Total Time: 1,118 hrs 58 mins
 
-TypeScript                 600 hrs 37 mins █████████████▒░░░░░░░░░░░   53.77 %
-C#                         145 hrs 30 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-JavaScript                 126 hrs 27 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-RMarkdown                  68 hrs 12 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-Vue.js                     24 hrs 31 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+TypeScript                 602 hrs 8 mins  █████████████▒░░░░░░░░░░░   53.81 %
+C#                         145 hrs 30 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
+JavaScript                 126 hrs 29 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+RMarkdown                  68 hrs 12 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Vue.js                     24 hrs 32 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:alltime-->
