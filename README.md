@@ -35,7 +35,7 @@ JavaScript     24 mins         █▒░░░░░░░░░░░░░░�
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 05 October 2023
+From: 15 December 2020 - To: 06 October 2023
 
 Total Time: 1,124 hrs 29 mins
 
