@@ -35,7 +35,7 @@ GDScript         26 mins         ▓░░░░░░░░░░░░░░�
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 28 October 2023
+From: 15 December 2020 - To: 29 October 2023
 
 Total Time: 1,173 hrs 14 mins
 
