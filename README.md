@@ -35,7 +35,7 @@ Rust         0 secs          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 11 November 2023
+From: 15 December 2020 - To: 12 November 2023
 
 Total Time: 1,200 hrs 59 mins
 
