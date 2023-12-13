@@ -35,7 +35,7 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 10 December 2023
+From: 15 December 2020 - To: 11 December 2023
 
 Total Time: 1,226 hrs 18 mins
 
