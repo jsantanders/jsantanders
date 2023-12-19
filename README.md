@@ -35,7 +35,7 @@ TOML         0 secs          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 16 December 2023
+From: 15 December 2020 - To: 17 December 2023
 
 Total Time: 1,239 hrs 6 mins
 
