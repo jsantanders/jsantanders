@@ -35,7 +35,7 @@ Bash         5 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 23 December 2023
+From: 15 December 2020 - To: 24 December 2023
 
 Total Time: 1,251 hrs 26 mins
 
