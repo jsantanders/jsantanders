@@ -35,14 +35,14 @@ Logos        5 mins          ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 30 December 2023
+From: 15 December 2020 - To: 31 December 2023
 
-Total Time: 1,254 hrs 5 mins
+Total Time: 1,254 hrs 58 mins
 
-TypeScript                 702 hrs 22 mins ██████████████░░░░░░░░░░░   56.01 %
-C#                         145 hrs 43 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-JavaScript                 139 hrs 24 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-RMarkdown                  68 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+TypeScript                 702 hrs 55 mins ██████████████░░░░░░░░░░░   56.01 %
+C#                         145 hrs 43 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+JavaScript                 139 hrs 42 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+RMarkdown                  68 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
 Vue.js                     34 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
