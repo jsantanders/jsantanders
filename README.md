@@ -35,15 +35,15 @@ MDX          9 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 02 January 2024
+From: 15 December 2020 - To: 03 January 2024
 
-Total Time: 1,260 hrs 33 mins
+Total Time: 1,263 hrs 15 mins
 
-TypeScript                 707 hrs 43 mins ██████████████░░░░░░░░░░░   56.14 %
-C#                         145 hrs 43 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-JavaScript                 140 hrs 28 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
-RMarkdown                  68 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-Vue.js                     34 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+TypeScript                 709 hrs 48 mins ██████████████░░░░░░░░░░░   56.19 %
+C#                         145 hrs 43 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+JavaScript                 140 hrs 45 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+RMarkdown                  68 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Vue.js                     34 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:alltime-->
