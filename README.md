@@ -17,15 +17,15 @@ I joined GitHub on `13 Nov 2015`.
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 30 January 2024 - To: 06 February 2024
+From: 31 January 2024 - To: 07 February 2024
 
-Total Time: 38 hrs 14 mins
+Total Time: 38 hrs 18 mins
 
-Go             15 hrs 12 mins  ██████████░░░░░░░░░░░░░░░   39.76 %
-TeX            9 hrs 29 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
-TypeScript     8 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
-JavaScript     2 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-YAML           41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Go           14 hrs 43 mins  █████████▓░░░░░░░░░░░░░░░   38.45 %
+TypeScript   8 hrs 38 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
+TeX          5 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+JavaScript   2 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Docker       2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
 ```
 
 <!--END_SECTION:weekly-->
