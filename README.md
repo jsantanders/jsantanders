@@ -35,7 +35,7 @@ YAML         1 hr 27 mins    █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 08 February 2024
+From: 15 December 2020 - To: 09 February 2024
 
 Total Time: 1,380 hrs 17 mins
 
