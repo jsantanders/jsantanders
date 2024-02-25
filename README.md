@@ -35,7 +35,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 22 February 2024
+From: 15 December 2020 - To: 23 February 2024
 
 Total Time: 1,391 hrs 15 mins
 
