@@ -17,15 +17,15 @@ I joined GitHub on `13 Nov 2015`.
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 24 March 2024 - To: 31 March 2024
+From: 25 March 2024 - To: 01 April 2024
 
-Total Time: 14 hrs 29 mins
+Total Time: 14 hrs 18 mins
 
-C#                7 hrs 57 mins   █████████████▓░░░░░░░░░░░   54.91 %
-JavaScript        1 hr 48 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
-YAML              1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-Makefile          57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-Docker            43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+C#                7 hrs 57 mins   ██████████████░░░░░░░░░░░   55.62 %
+JavaScript        1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+YAML              1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Makefile          57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+Docker            43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
 ```
 
 <!--END_SECTION:weekly-->
