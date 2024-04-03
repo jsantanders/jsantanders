@@ -35,7 +35,7 @@ Docker            43 mins         █▒░░░░░░░░░░░░░�
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 31 March 2024
+From: 15 December 2020 - To: 01 April 2024
 
 Total Time: 1,428 hrs 22 mins
 
