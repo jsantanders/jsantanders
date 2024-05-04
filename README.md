@@ -35,15 +35,15 @@ C#           2 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 01 May 2024
+From: 15 December 2020 - To: 02 May 2024
 
-Total Time: 1,489 hrs 58 mins
+Total Time: 1,497 hrs 57 mins
 
-TypeScript                 838 hrs 2 mins  ██████████████░░░░░░░░░░░   56.25 %
-JavaScript                 168 hrs 44 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-C#                         155 hrs 7 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-RMarkdown                  68 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Vue.js                     34 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+TypeScript                 845 hrs 48 mins ██████████████░░░░░░░░░░░   56.46 %
+JavaScript                 168 hrs 56 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+C#                         155 hrs 7 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+RMarkdown                  68 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Vue.js                     34 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:alltime-->
