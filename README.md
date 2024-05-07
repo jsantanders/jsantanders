@@ -35,7 +35,7 @@ SCSS         0 secs          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 04 May 2024
+From: 15 December 2020 - To: 05 May 2024
 
 Total Time: 1,498 hrs 4 mins
 
