@@ -17,15 +17,15 @@ I joined GitHub on `13 Nov 2015`.
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 13 May 2024 - To: 20 May 2024
+From: 14 May 2024 - To: 21 May 2024
 
-Total Time: 5 hrs 27 mins
+Total Time: 5 hrs 26 mins
 
-TypeScript   2 hrs 36 mins   ████████████░░░░░░░░░░░░░   47.87 %
-Rust         48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
-JavaScript   43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-Other        41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-C#           36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+TypeScript   2 hrs 33 mins   ███████████▓░░░░░░░░░░░░░   47.14 %
+Rust         50 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
+JavaScript   43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+Other        41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+C#           36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
 ```
 
 <!--END_SECTION:weekly-->
