@@ -17,15 +17,15 @@ I joined GitHub on `13 Nov 2015`.
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 20 June 2024 - To: 27 June 2024
+From: 21 June 2024 - To: 28 June 2024
 
-Total Time: 10 hrs 56 mins
+Total Time: 9 hrs 55 mins
 
-C#           6 hrs 4 mins    ██████████████░░░░░░░░░░░   55.45 %
-Rust         2 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
-Terraform    1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-Binary       56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-XML          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+C#           6 hrs 7 mins    ███████████████▒░░░░░░░░░   61.69 %
+Rust         1 hr 53 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
+Terraform    1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+Binary       23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+XML          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:weekly-->
