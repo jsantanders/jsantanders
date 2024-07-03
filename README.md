@@ -35,14 +35,14 @@ XML          9 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 30 June 2024
+From: 15 December 2020 - To: 01 July 2024
 
-Total Time: 1,541 hrs 9 mins
+Total Time: 1,541 hrs 23 mins
 
 TypeScript                 854 hrs 9 mins  ██████████████░░░░░░░░░░░   55.42 %
-C#                         175 hrs 21 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-JavaScript                 170 hrs 4 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
-RMarkdown                  68 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+C#                         175 hrs 34 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+JavaScript                 170 hrs 4 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+RMarkdown                  68 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
 Vue.js                     34 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
