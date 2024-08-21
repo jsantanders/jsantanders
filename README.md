@@ -35,7 +35,7 @@ Binary       5 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 18 August 2024
+From: 15 December 2020 - To: 19 August 2024
 
 Total Time: 1,653 hrs 44 mins
 
