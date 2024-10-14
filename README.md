@@ -17,7 +17,7 @@ I joined GitHub on `13 Nov 2015`.
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 05 October 2024 - To: 12 October 2024
+From: 06 October 2024 - To: 13 October 2024
 
 Total Time: 24 hrs 17 mins
 
