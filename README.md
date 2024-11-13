@@ -35,7 +35,7 @@ TypeScript   1 min           ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 10 November 2024
+From: 15 December 2020 - To: 11 November 2024
 
 Total Time: 1,859 hrs 50 mins
 
