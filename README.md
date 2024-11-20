@@ -35,7 +35,7 @@ SQL          8 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 17 November 2024
+From: 15 December 2020 - To: 18 November 2024
 
 Total Time: 1,868 hrs 40 mins
 
