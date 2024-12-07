@@ -35,14 +35,14 @@ SQL          0 secs          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 04 December 2024
+From: 15 December 2020 - To: 05 December 2024
 
-Total Time: 1,891 hrs 38 mins
+Total Time: 1,892 hrs 34 mins
 
-TypeScript                 1,174 hrs 21 mins███████████████▓░░░░░░░░░   62.08 %
-C#                         342 hrs 42 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.12 %
-RMarkdown                  68 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Vue.js                     34 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+TypeScript                 1,175 hrs 8 mins███████████████▓░░░░░░░░░   62.09 %
+C#                         342 hrs 51 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.12 %
+RMarkdown                  68 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Vue.js                     34 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 Rust                       33 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
