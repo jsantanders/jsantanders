@@ -35,7 +35,7 @@ ASP.NET      13 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 14 December 2024
+From: 15 December 2020 - To: 15 December 2024
 
 Total Time: 1,910 hrs 36 mins
 
