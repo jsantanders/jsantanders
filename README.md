@@ -35,14 +35,14 @@ Docker       5 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 11 January 2025
+From: 15 December 2020 - To: 12 January 2025
 
-Total Time: 1,970 hrs 38 mins
+Total Time: 1,971 hrs 10 mins
 
-TypeScript                 1,214 hrs 50 mins███████████████▒░░░░░░░░░   61.65 %
-C#                         366 hrs 19 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
+TypeScript                 1,215 hrs       ███████████████▒░░░░░░░░░   61.64 %
+C#                         366 hrs 19 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
 RMarkdown                  68 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Rust                       42 hrs 5 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Rust                       42 hrs 28 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 Vue.js                     34 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
