@@ -17,15 +17,15 @@ I joined GitHub on `13 Nov 2015`.
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 25 January 2025 - To: 01 February 2025
+From: 26 January 2025 - To: 02 February 2025
 
-Total Time: 20 hrs 55 mins
+Total Time: 24 hrs 54 mins
 
-C#             11 hrs 4 mins   █████████████▒░░░░░░░░░░░   52.92 %
-TypeScript     8 hrs 7 mins    █████████▓░░░░░░░░░░░░░░░   38.88 %
-Binary         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-SQL            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-HTML           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+C#             12 hrs 3 mins   ████████████░░░░░░░░░░░░░   48.41 %
+TypeScript     10 hrs 32 mins  ██████████▓░░░░░░░░░░░░░░   42.30 %
+HTML           28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Binary         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+XML            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:weekly-->
