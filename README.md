@@ -35,14 +35,14 @@ CSS          2 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 18 February 2025
+From: 15 December 2020 - To: 20 February 2025
 
-Total Time: 2,125 hrs 15 mins
+Total Time: 2,134 hrs 13 mins
 
-TypeScript                 1,278 hrs       ███████████████░░░░░░░░░░   60.13 %
-C#                         433 hrs 7 mins  █████░░░░░░░░░░░░░░░░░░░░   20.38 %
-RMarkdown                  68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Rust                       54 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+TypeScript                 1,284 hrs 56 mins███████████████░░░░░░░░░░   60.21 %
+C#                         435 hrs 9 mins  █████░░░░░░░░░░░░░░░░░░░░   20.39 %
+RMarkdown                  68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Rust                       54 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 Vue.js                     34 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
