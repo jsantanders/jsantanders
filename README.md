@@ -31,7 +31,7 @@ TypeScript   1 hr 24 mins    █████████████████
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 11 May 2025
+From: 15 December 2020 - To: 12 May 2025
 
 Total Time: 2,463 hrs 48 mins
 
