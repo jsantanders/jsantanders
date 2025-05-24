@@ -17,15 +17,15 @@ I joined GitHub on `13 Nov 2015`.
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 15 May 2025 - To: 22 May 2025
+From: 16 May 2025 - To: 23 May 2025
 
-Total Time: 10 hrs 34 mins
+Total Time: 7 hrs 33 mins
 
-Rust           7 hrs 44 mins   ██████████████████▒░░░░░░   73.21 %
-TypeScript     51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-SQL            46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-TOML           24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Terraform      18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Rust           6 hrs 27 mins   █████████████████████▒░░░   85.63 %
+Terraform      18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Bash           13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+SQL            12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+TOML           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:weekly-->
