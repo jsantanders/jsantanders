@@ -8,7 +8,6 @@ I joined GitHub on `13 Nov 2015`.
 
 - 👦 I'm interested in distributed systems, React.js apps, and cloud architecture.
 - ⚡️ I have a blog at <https://jsantanders.dev/blog>
-- 😄 Pronouns: he/him
 
 ### 📊 Github Statistics
 
