@@ -30,7 +30,7 @@ No activity tracked
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 12 June 2025
+From: 15 December 2020 - To: 13 June 2025
 
 Total Time: 2,479 hrs 38 mins
 
