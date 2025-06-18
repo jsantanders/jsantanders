@@ -16,11 +16,13 @@ I joined GitHub on `13 Nov 2015`.
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 09 June 2025 - To: 16 June 2025
+From: 10 June 2025 - To: 17 June 2025
 
-Total Time: 0 secs
+Total Time: 3 hrs 10 mins
 
-No activity tracked
+C#      3 hrs 8 mins    ████████████████████████▓   98.82 %
+XML     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:weekly-->
