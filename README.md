@@ -34,12 +34,12 @@ Other        17 mins         █░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 04 July 2025
+From: 15 December 2020 - To: 05 July 2025
 
-Total Time: 2,505 hrs 13 mins
+Total Time: 2,507 hrs 2 mins
 
-TypeScript                         1,547 hrs 16 mins███████████████▒░░░░░░░░░   61.76 %
-C#                                 511 hrs 35 mins █████░░░░░░░░░░░░░░░░░░░░   20.42 %
+TypeScript                         1,549 hrs 6 mins███████████████▒░░░░░░░░░   61.79 %
+C#                                 511 hrs 35 mins █████░░░░░░░░░░░░░░░░░░░░   20.41 %
 RMarkdown                          68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 Rust                               64 hrs 57 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 Vue.js                             34 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
