@@ -34,7 +34,7 @@ Other        17 mins         █░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 06 July 2025
+From: 15 December 2020 - To: 07 July 2025
 
 Total Time: 2,507 hrs 2 mins
 
