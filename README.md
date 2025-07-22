@@ -34,7 +34,7 @@ Markdown       14 mins         ▒░░░░░░░░░░░░░░░�
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 19 July 2025
+From: 15 December 2020 - To: 20 July 2025
 
 Total Time: 2,559 hrs 55 mins
 
