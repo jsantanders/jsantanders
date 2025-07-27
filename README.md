@@ -34,15 +34,15 @@ Astro        34 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 24 July 2025
+From: 15 December 2020 - To: 25 July 2025
 
-Total Time: 2,574 hrs 49 mins
+Total Time: 2,578 hrs 51 mins
 
-TypeScript                         1,596 hrs 14 mins███████████████▒░░░░░░░░░   61.99 %
-C#                                 519 hrs 18 mins █████░░░░░░░░░░░░░░░░░░░░   20.17 %
-Rust                               73 hrs 38 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-RMarkdown                          68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Vue.js                             34 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+TypeScript                         1,598 hrs 22 mins███████████████▒░░░░░░░░░   61.98 %
+C#                                 520 hrs 35 mins █████░░░░░░░░░░░░░░░░░░░░   20.19 %
+Rust                               73 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+RMarkdown                          68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Vue.js                             34 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:alltime-->
