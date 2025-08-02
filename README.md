@@ -34,9 +34,9 @@ YAML         11 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 30 July 2025
+From: 15 December 2020 - To: 31 July 2025
 
-Total Time: 2,582 hrs 16 mins
+Total Time: 2,582 hrs 40 mins
 
 TypeScript                         1,601 hrs 23 mins███████████████▓░░░░░░░░░   62.01 %
 C#                                 520 hrs 35 mins █████░░░░░░░░░░░░░░░░░░░░   20.16 %
