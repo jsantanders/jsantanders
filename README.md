@@ -34,14 +34,14 @@ HCL          16 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 04 August 2025
+From: 15 December 2020 - To: 05 August 2025
 
-Total Time: 2,587 hrs 45 mins
+Total Time: 2,595 hrs 37 mins
 
-TypeScript                         1,604 hrs 54 mins███████████████▓░░░░░░░░░   62.02 %
-C#                                 520 hrs 46 mins █████░░░░░░░░░░░░░░░░░░░░   20.12 %
-Rust                               73 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-RMarkdown                          68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+TypeScript                         1,611 hrs 37 mins███████████████▓░░░░░░░░░   62.09 %
+C#                                 520 hrs 46 mins █████░░░░░░░░░░░░░░░░░░░░   20.06 %
+Rust                               73 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+RMarkdown                          68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 Vue.js                             34 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
