@@ -34,14 +34,14 @@ SCSS         23 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 21 August 2025
+From: 15 December 2020 - To: 22 August 2025
 
-Total Time: 2,658 hrs 5 mins
+Total Time: 2,663 hrs 18 mins
 
-TypeScript                         1,628 hrs 51 mins███████████████▒░░░░░░░░░   61.28 %
-C#                                 558 hrs 28 mins █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
+TypeScript                         1,631 hrs 30 mins███████████████▒░░░░░░░░░   61.26 %
+C#                                 559 hrs 31 mins █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
 Rust                               73 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-RMarkdown                          68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+RMarkdown                          68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 Vue.js                             34 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
