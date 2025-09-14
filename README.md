@@ -16,13 +16,11 @@ I joined GitHub on `13 Nov 2015`.
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 05 September 2025 - To: 12 September 2025
+From: 06 September 2025 - To: 13 September 2025
 
-Total Time: 1 hr 50 mins
+Total Time: 0 secs
 
-TypeScript   1 hr 23 mins    ███████████████████░░░░░░   75.55 %
-YAML         19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
-Other        7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:weekly-->
