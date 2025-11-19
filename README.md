@@ -34,14 +34,14 @@ YAML         22 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 16 November 2025
+From: 15 December 2020 - To: 17 November 2025
 
-Total Time: 2,857 hrs 51 mins
+Total Time: 2,862 hrs 21 mins
 
-TypeScript                         1,794 hrs 54 mins███████████████▓░░░░░░░░░   62.81 %
-C#                                 575 hrs 15 mins █████░░░░░░░░░░░░░░░░░░░░   20.13 %
+TypeScript                         1,799 hrs 4 mins███████████████▓░░░░░░░░░   62.85 %
+C#                                 575 hrs 15 mins █████░░░░░░░░░░░░░░░░░░░░   20.10 %
 Rust                               73 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-RMarkdown                          68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+RMarkdown                          68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 Vue.js                             34 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
