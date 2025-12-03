@@ -34,11 +34,11 @@ HCL          8 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 30 November 2025
+From: 15 December 2020 - To: 01 December 2025
 
-Total Time: 2,918 hrs 6 mins
+Total Time: 2,918 hrs 21 mins
 
-TypeScript                         1,832 hrs 23 mins███████████████▓░░░░░░░░░   62.79 %
+TypeScript                         1,832 hrs 38 mins███████████████▓░░░░░░░░░   62.80 %
 C#                                 590 hrs 58 mins █████░░░░░░░░░░░░░░░░░░░░   20.25 %
 Rust                               73 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 RMarkdown                          68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
