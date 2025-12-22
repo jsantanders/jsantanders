@@ -34,7 +34,7 @@ MDX          47 mins         ███░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 19 December 2025
+From: 15 December 2020 - To: 20 December 2025
 
 Total Time: 2,952 hrs 19 mins
 
