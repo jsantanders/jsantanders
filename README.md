@@ -34,12 +34,12 @@ Text         31 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 14 January 2026
+From: 15 December 2020 - To: 15 January 2026
 
-Total Time: 2,990 hrs 8 mins
+Total Time: 2,997 hrs
 
-TypeScript                         1,862 hrs 38 mins███████████████▓░░░░░░░░░   62.29 %
-C#                                 607 hrs 59 mins █████░░░░░░░░░░░░░░░░░░░░   20.33 %
+TypeScript                         1,869 hrs 4 mins███████████████▓░░░░░░░░░   62.36 %
+C#                                 608 hrs         █████░░░░░░░░░░░░░░░░░░░░   20.29 %
 Rust                               76 hrs 53 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 RMarkdown                          68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 Vue.js                             34 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
