@@ -16,15 +16,15 @@ I joined GitHub on `13 Nov 2015`.
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 21 January 2026 - To: 28 January 2026
+From: 22 January 2026 - To: 29 January 2026
 
-Total Time: 4 hrs 36 mins
+Total Time: 7 hrs 47 mins
 
-TypeScript   2 hrs 25 mins   █████████████░░░░░░░░░░░░   52.56 %
-C#           50 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
-Terraform    38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
-YAML         33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+TypeScript   3 hrs 17 mins   ██████████▓░░░░░░░░░░░░░░   42.25 %
+C#           2 hrs 47 mins   █████████░░░░░░░░░░░░░░░░   35.77 %
+YAML         51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+Terraform    43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:weekly-->
