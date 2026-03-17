@@ -34,7 +34,7 @@ HCL            5 mins          ░░░░░░░░░░░░░░░░�
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 14 March 2026
+From: 15 December 2020 - To: 15 March 2026
 
 Total Time: 3,065 hrs 18 mins
 
