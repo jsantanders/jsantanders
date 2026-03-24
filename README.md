@@ -34,7 +34,7 @@ C#             5 mins          ▓░░░░░░░░░░░░░░░�
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 21 March 2026
+From: 15 December 2020 - To: 22 March 2026
 
 Total Time: 3,068 hrs 15 mins
 
