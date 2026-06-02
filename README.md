@@ -32,7 +32,7 @@ csharp       4 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 30 May 2026
+From: 15 December 2020 - To: 31 May 2026
 
 Total Time: 3,152 hrs 29 mins
 
