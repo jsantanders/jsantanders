@@ -34,15 +34,15 @@ shell script   45 mins         ▒░░░░░░░░░░░░░░░�
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 21 July 2026
+From: 15 December 2020 - To: 24 July 2026
 
-Total Time: 3,317 hrs 30 mins
+Total Time: 3,344 hrs 9 mins
 
-TypeScript                         2,096 hrs 15 mins███████████████▓░░░░░░░░░   63.19 %
-C#                                 634 hrs 10 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
-Rust                               78 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-RMarkdown                          68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-Markdown                           52 hrs 26 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+TypeScript                         2,114 hrs 55 mins███████████████▓░░░░░░░░░   63.24 %
+C#                                 635 hrs 21 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
+Rust                               78 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+RMarkdown                          68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Markdown                           57 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:alltime-->
