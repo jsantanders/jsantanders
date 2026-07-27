@@ -34,15 +34,15 @@ Other          30 mins         ▒░░░░░░░░░░░░░░░�
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 24 July 2026
+From: 15 December 2020 - To: 25 July 2026
 
-Total Time: 3,344 hrs 9 mins
+Total Time: 3,353 hrs 4 mins
 
-TypeScript                         2,114 hrs 55 mins███████████████▓░░░░░░░░░   63.24 %
-C#                                 635 hrs 21 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
-Rust                               78 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-RMarkdown                          68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Markdown                           57 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+TypeScript                         2,119 hrs 32 mins███████████████▓░░░░░░░░░   63.21 %
+C#                                 637 hrs 30 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
+Rust                               78 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+RMarkdown                          68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Markdown                           57 hrs 59 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:alltime-->
