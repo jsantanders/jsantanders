@@ -34,15 +34,15 @@ Python         56 mins         ▓░░░░░░░░░░░░░░░�
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 31 July 2026
+From: 15 December 2020 - To: 01 August 2026
 
-Total Time: 3,385 hrs 51 mins
+Total Time: 3,391 hrs 47 mins
 
-TypeScript                         2,138 hrs 14 mins███████████████▓░░░░░░░░░   63.15 %
-C#                                 642 hrs 51 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
-Rust                               78 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+TypeScript                         2,141 hrs 7 mins███████████████▓░░░░░░░░░   63.13 %
+C#                                 642 hrs 51 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.95 %
+Rust                               78 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 RMarkdown                          68 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Markdown                           64 hrs 19 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Markdown                           66 hrs 42 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:alltime-->
