@@ -16,15 +16,15 @@ I joined GitHub on `13 Nov 2015`.
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 07 August 2026 - To: 14 August 2026
+From: 08 August 2026 - To: 15 August 2026
 
-Total Time: 22 hrs 9 mins
+Total Time: 19 hrs 51 mins
 
-TypeScript     14 hrs 40 mins  ████████████████▓░░░░░░░░   66.21 %
-Markdown       2 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
-C#             2 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-SQL            1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-Diff           24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+TypeScript     13 hrs 51 mins  █████████████████▒░░░░░░░   69.77 %
+C#             2 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+Markdown       1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+SQL            1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Diff           24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:weekly-->
