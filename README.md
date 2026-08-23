@@ -34,15 +34,15 @@ SCSS           13 mins         ▒░░░░░░░░░░░░░░░�
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 20 August 2026
+From: 15 December 2020 - To: 21 August 2026
 
-Total Time: 3,446 hrs 49 mins
+Total Time: 3,456 hrs 31 mins
 
-TypeScript                         2,177 hrs 44 mins███████████████▓░░░░░░░░░   63.18 %
-C#                                 650 hrs 42 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
-Rust                               78 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-Markdown                           71 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-RMarkdown                          68 hrs 12 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+TypeScript                         2,183 hrs 36 mins███████████████▓░░░░░░░░░   63.17 %
+C#                                 651 hrs 52 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
+Rust                               78 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Markdown                           73 hrs 49 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+RMarkdown                          68 hrs 12 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:alltime-->
