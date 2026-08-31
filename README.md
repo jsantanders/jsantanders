@@ -34,7 +34,7 @@ Other          0 secs          ░░░░░░░░░░░░░░░░�
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 28 August 2026
+From: 15 December 2020 - To: 29 August 2026
 
 Total Time: 3,482 hrs 51 mins
 
