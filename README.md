@@ -34,7 +34,7 @@ CSV          16 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 05 September 2026
+From: 15 December 2020 - To: 06 September 2026
 
 Total Time: 3,504 hrs 26 mins
 
