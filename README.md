@@ -33,7 +33,7 @@ YAML         13 mins         █░░░░░░░░░░░░░░░░
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 12 September 2026
+From: 15 December 2020 - To: 13 September 2026
 
 Total Time: 3,516 hrs 36 mins
 
