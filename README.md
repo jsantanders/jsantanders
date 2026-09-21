@@ -30,7 +30,7 @@ Other   1 hr 35 mins    ██████████████████�
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 18 September 2026
+From: 15 December 2020 - To: 19 September 2026
 
 Total Time: 3,518 hrs 40 mins
 
