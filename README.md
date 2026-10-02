@@ -34,9 +34,9 @@ C#             53 mins         ▓░░░░░░░░░░░░░░░�
 <!--START_SECTION:alltime-->
 
 ```txt
-From: 15 December 2020 - To: 29 September 2026
+From: 15 December 2020 - To: 30 September 2026
 
-Total Time: 3,571 hrs
+Total Time: 3,571 hrs 3 mins
 
 TypeScript                         2,246 hrs 52 mins███████████████▓░░░░░░░░░   62.92 %
 C#                                 666 hrs 13 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
